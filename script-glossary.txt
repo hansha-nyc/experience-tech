@@ -1,0 +1,6 @@
+To start a bash script, use the shebang - "#!/bin/bash"
+#!/bin/bash (commonly called a shebang or hashbang) is placed at the absolute beginning of a script file to instruct 
+the operating system to use the GNU Bash shell interpreter to execute the remaining code in the file.
+
+####################################################################################################################
+To start a powershell script
