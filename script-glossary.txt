@@ -4,3 +4,8 @@ the operating system to use the GNU Bash shell interpreter to execute the remain
 
 ####################################################################################################################
 To start a powershell script
+
+Simple start of a PowerShell script - start with a ps command, which is not best practice. it's good enough for a simple script.
+Write-Host "Hello, World!"
+
+####################################################################################################################
