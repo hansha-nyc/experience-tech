@@ -1,0 +1,79 @@
+# Collection of some of the work I've done.
+
+ANTHONY MORALES
+CA, TX, NY  |  346-297-9497 |  amoraless@gmail.com  |  LinkedIn
+
+Professional Summary
+
+DevOps and Cloud Platform Engineer with 20+ years of IT infrastructure experience and 5+ years specializing in Azure and Google Cloud Platform. Proven track record designing and automating cloud infrastructure with Terraform, supporting AI/ML workloads at enterprise scale (Mayo Clinic), and leading CI/CD, security, and governance across hybrid multi-cloud environments. Agile Scrum practitioner with strong cross-functional collaboration and technical mentoring experience.
+
+Core Skills
+Cloud Platforms: Azure, Google Cloud Platform (GCP), AWS
+Infrastructure as Code: Terraform, Ansible, YAML
+CI/CD: Azure DevOps, GitHub Actions, Cloud Builds
+Containerization: Docker, Kubernetes, GKE, Azure App Service
+Scripting: Python, Bash, PowerShell
+Monitoring & Analytics: Prometheus, Grafana, ELK, New Relic, Databricks, Apache, Nginx
+Data: MySQL, SQL, BigQuery, Data Analytics
+Security: IAM, RBAC, VPC Service Controls, Firewall Rules, Network Security Groups, Landing Zones
+Methodologies: Agile Scrum, Project Management
+Tools: ServiceNow, MS365, Hadoop
+Operating Systems: Ubuntu, Debian, Red Hat
+Other: IaaS, PaaS, SaaS, SRE, Technical & Architectural Documentation
+
+Work Experience
+DevOps / Cloud Architecture / Cloud Consulting — Project Manager	Mar 2025 – Present
+Freelance Consulting (Pro Bono), Houston, TX
+Provide pro bono consulting services for clients' cloud environment needs across Azure and GCP to stay current with evolving tools and practices.
+Deliver 1-on-1 and group tutoring in DevOps practices, including CI/CD pipelines, IaC (Terraform), containerization (Docker/K8s), and cloud services (Azure/AWS).
+Build platform engineering project templates, including Azure/Google Cloud landing zones and reusable IaC modules.
+Create learning resources and documented guided-step tutorials.
+Design and deliver automation solutions to streamline client workflows.
+
+Career Break	Apr 2024 – Mar 2025
+Managed the sale of a home; continued developing and maintaining technical skills in cloud infrastructure and DevOps tooling during this period.
+
+DevOps / Platform Engineer — Project Manager	Aug 2021 – Mar 2024
+Mayo Clinic (via Medasource), Rochester, MN
+Designed and supported scalable cloud infrastructure on GCP using Terraform for AI/ML workloads, including Large Language Models (LLMs) in healthcare research.
+Automated Google Cloud data analytics solutions using Compute Engine, Cloud Storage, BigQuery, and Cloud Functions; implemented IAM roles and RBAC for security.
+Streamlined project provisioning and decommissioning with Terraform modules, reducing manual overhead.
+Led workflows across GCP and Azure, supporting CI/CD via Cloud Build, Azure DevOps pipelines, and Git repositories.
+Managed cloud governance and change processes with ServiceNow, ensuring controlled deployments.
+Supported AI/ML tooling: Vertex AI, Compute Engine AI, BigQuery ML, Jupyter Notebooks, PyTorch, TensorFlow.
+Ensured quality assurance for LLM compute environments, supporting Conda and RStudio integrations.
+Secured environments using VPC Service Controls, Firewall Rules, and IAM policies; optimized Azure security posture.
+Deployed and managed containerized applications on GKE and Docker; leveraged Azure App Service for hybrid deployments.
+
+Infrastructure / DevOps Engineer — Project Manager	Dec 2004 – Nov 2019
+Optum Technology, Houston, TX
+Led server infrastructure projects, installing ESXi on HP and Cisco servers for high-volume virtual hosts.
+Utilized Agile Scrum methodology and Rally for project deployment; automated tasks with PowerShell.
+Managed SAN storage allocation, optimized system performance, and resolved hardware issues.
+Supported VMware migrations using vMotion, DRS, and vSphere; provided 24x7 on-call support.
+Automated system configurations with PowerShell; mentored Agile team members in VMware and Windows Server administration.
+Used Terraform, Chef, Puppet, and Azure Catalog to provision SQL databases.
+
+System Administrator	Mar 2004 – Sep 2004
+Thomson Reuters, New York, NY
+Administered Novell network OS, ZENworks, and GroupWise Mail Server.
+Provided global IT support and deployed standardized Windows builds.
+
+Desktop Migration Consultant	Jun 2003 – Feb 2004
+J.P. Morgan Chase, New York, NY
+Supported desktop migration projects and end-user accessibility.
+
+Certifications
+AWS Certified Cloud Practitioner
+Introduction to Large Language Models
+Introduction to Generative AI
+Developing a Google SRE Culture
+Introduction to Data Concepts
+Google AI Essentials Certificate
+Agile/Scrum 
+
+Education
+CS50: Introduction to Computer Science (Harvard/edX)
+PMI Member
+Languages
+English (native) · Spanish (fluent) · Portuguese (basic)
