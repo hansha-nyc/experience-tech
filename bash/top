@@ -1,0 +1,8 @@
+# Run the top command to display a dynamic view of running processes, CPU usage, and memory consumption.
+# Anthony Morales - California  
+
+#!/bin/bash
+
+top >> server-processes.txt
+
+
