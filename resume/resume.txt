@@ -6,6 +6,7 @@ DevOps / Platform Engineer | Azure & GCP Infrastructure | Production Operations 
 Fremont, CA 94539 | 346-297-9497 | amoraless@gmail.com | linkedin.com/in/anthony-morales-90a647110
 PROFESSIONAL SUMMARY
 DevOps / Platform Engineer with 15 + years of infrastructure experience across enterprise production, on-premises virtualization, and GCP/Azure cloud environments. Hands-on experience designing and supporting cloud/on-prem infrastructure with Terraform for healthcare AI/ML workloads, including Virtual Servers, Cloud Storage, BigQuery, IAM/RBAC, cloud security controls, and CI/CD automation. Strong production-operations background with 24x7 on-call experience, virtualized infrastructure, SAN storage, migrations, system performance, and controlled change management. Experienced with Python, Bash, PowerShell, Docker, Kubernetes, monitoring and analytics tools, and reusable infrastructure-as-code patterns.
+
 CORE TECHNICAL SKILLS
 Cloud Platforms: Azure, GCP, AWS, VMWare
 Infrastructure as Code: Terraform/Modules, Ansible
@@ -15,6 +16,7 @@ Monitoring & Analytics: Prometheus, Grafana, ELK, New Relic, Databricks
 Containers & Virtualization: Docker, Kubernetes, VMWare, ESXi
 Security & Governance: IAM, RBAC, Policies, Secrets, Firewall, Private Endpoints
 Data & Systems: BigQuery, SQL, Wintel, Linux, SAN
+
 PROFESSIONAL EXPERIENCE
 Facilities / Office Services — Freelance | Sep 2025 – October 2026 | Houston, Texas | On-site
   • Provided independent nightly facilities & office-services support across two locations, maintaining consistent schedules & site operations.
@@ -54,6 +56,7 @@ PROFESSIONAL DEVELOPMENT
 • Apr 2024 – Aug 2025: Independent Cloud Study & Skills Development — completed coursework in Google SRE culture, Generative AI, and LLM fundamentals; continued hands-on development across Terraform, Docker/Kubernetes, and Azure/GCP services.
 • Sep 2025 – Jan 2026: Facilities / Office Services — maintained financial stability during a housing transition while keeping technical skills current through Terraform, CI/CD, and automation work.
 • Feb 2026 – Present: Active DevOps / Cloud Engineering Job Search — focused on DevOps, Platform Engineering, Cloud Engineering, and SRE roles; continued hands-on portfolio work with Terraform and CI/CD.
+
 CERTIFICATIONS & EDUCATION
 • AWS Certified Cloud Practitioner
 • Developing a Google SRE Culture
