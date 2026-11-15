@@ -1,79 +1,67 @@
 # Collection of some of the work I've done.
 
+
 ANTHONY MORALES
-CA, TX, NY  |  346-297-9497 |  amoraless@gmail.com  |  LinkedIn - https://www.linkedin.com/in/anthony-morales-90a647110/
+DevOps / Platform Engineer | Azure & GCP Infrastructure | Production Operations | Automation
+Fremont, CA 94539 | 346-297-9497 | amoraless@gmail.com | linkedin.com/in/anthony-morales-90a647110
+PROFESSIONAL SUMMARY
+DevOps / Platform Engineer with 15 + years of infrastructure experience across enterprise production, on-premises virtualization, and GCP/Azure cloud environments. Hands-on experience designing and supporting cloud/on-prem infrastructure with Terraform for healthcare AI/ML workloads, including Virtual Servers, Cloud Storage, BigQuery, IAM/RBAC, cloud security controls, and CI/CD automation. Strong production-operations background with 24x7 on-call experience, virtualized infrastructure, SAN storage, migrations, system performance, and controlled change management. Experienced with Python, Bash, PowerShell, Docker, Kubernetes, monitoring and analytics tools, and reusable infrastructure-as-code patterns.
+CORE TECHNICAL SKILLS
+Cloud Platforms: Azure, GCP, AWS, VMWare
+Infrastructure as Code: Terraform/Modules, Ansible
+CI/CD & Automation: Azure DevOps Pipelines, GitHub Actions, Git, Python, Bash, PowerShell
+Production Operations: 24/7 on-call, incident response, infrastructure troubleshooting, system performance, disaster recovery, change management
+Monitoring & Analytics: Prometheus, Grafana, ELK, New Relic, Databricks
+Containers & Virtualization: Docker, Kubernetes, VMWare, ESXi
+Security & Governance: IAM, RBAC, Policies, Secrets, Firewall, Private Endpoints
+Data & Systems: BigQuery, SQL, Wintel, Linux, SAN
+PROFESSIONAL EXPERIENCE
+Facilities / Office Services — Freelance | Sep 2025 – October 2026 | Houston, Texas | On-site
+  • Provided independent nightly facilities & office-services support across two locations, maintaining consistent schedules & site operations.
+  • Used spreadsheets to track work dates, site assignments, and completed activities for accurate record-keeping.
+  • Continued professional development and active pursuit of DevOps/Cloud Engineering opportunities.
+  • Azure Storage backend for Terraform remote state, backend configuration from infrastructure resource definitions. 
+  
+DevOps / Platform Engineer (Contractor) | Mayo Clinic (via Medasource) | Rochester, MN | Aug 2021 – Mar 2024
+• Designed and supported scalable GCP cloud infrastructure using Terraform for AI/ML workloads, including LLM-based healthcare research systems.
+•  Configured and managed IAM permissions for users and service accounts across BigQuery, Compute Engine, and other cloud resources, applying RBAC and least-privilege principles.  
+•  Built reusable, version-controlled Terraform modules to standardize project provisioning and decommissioning, ensuring code consistency and reducing manual infrastructure configuration.
+•  Terraform configurations using variables, outputs, and existing-resource data sources to provision and manage resources. 
+•  Implemented and managed IAM role assignments for users and service accounts using Terraform, automating access provisioning and enforcing least-privilege security principles across cloud resources. 
+• Automated project provisioning at the folder level using Bash scripts, eliminating manual setup steps and accelerating environment creation across the organization.
+• Managed CI/CD workflows across Git and Azure DevOps Pipelines
+• Supported AI/ML tooling including Vertex AI, BigQuery ML, Jupyter Notebooks, PyTorch, and TensorFlow; supported QA for LLM compute environments.
+• Implemented cloud security and governance controls using firewall rules and IAM policy design across Azure/GCP.
+• Deployed and managed containerized applications on K8S and Docker and supported hybrid deployments.
+• Managed cloud governance and change management through ServiceNow to support controlled and auditable deployments.
+• Monitored infrastructure health and resource utilization across environments built and supported, proactively identifying and resolving issues before impact.
 
-Professional Summary
+Infrastructure / DevOps Engineer | Optum Technology / UnitedHealth Group | Houston, TX | Dec 2004 – Nov 2019
+• Built long-term technical trust over a 15-year tenure, progressing from enterprise server infrastructure to DevOps automation as the technology stack evolved.
+• Led ESXi server infrastructure projects on HP and Cisco hardware for high-volume virtual hosting and provided 24x7 on-call support.
+• Exercised full technical ownership over environment configuration and provisioning decisions, accelerating delivery timelines by eliminating dependency on cross-team sign-off.
+• Implemented enterprise VMware migrations using vMotion, DRS, and vSphere; managed SAN storage allocation and system performance.
+• Automated infrastructure provisioning with PowerShell, Terraform, Chef, and Puppet, including SQL database provisioning through Azure Catalog.
+• Applied Agile Scrum practices for infrastructure project delivery and mentored team members in VMware and Windows Server administration. 
+•  Participated in biannual disaster recovery (DR) exercises, validating failover procedures and recovery readiness across supported environments.
 
-DevOps and Cloud Platform Engineer with 20+ years of IT infrastructure experience and 5+ years specializing in Azure and Google Cloud Platform. Proven track record designing and automating cloud infrastructure with Terraform, supporting AI/ML workloads at enterprise scale (Mayo Clinic), and leading CI/CD, security, and governance across hybrid multi-cloud environments. Agile Scrum practitioner with strong cross-functional collaboration and technical mentoring experience.
+System Administrator | Thomson Reuters | New York, NY | Mar 2004 – Sep 2004
+• Administered Novell NetWare OS and GroupWise Mail Server; provided global IT support and standardized Windows deployments.
+Desktop Migration Consultant | J.P. Morgan Chase | New York, NY | Jun 2003 – Feb 2004
+• Supported enterprise desktop migration projects and end-user accessibility during system transitions.
 
-Core Skills
-Cloud Platforms: Azure, Google Cloud Platform (GCP), AWS
-Infrastructure as Code: Terraform, Ansible, YAML
-CI/CD: Azure DevOps, GitHub Actions, Cloud Builds
-Containerization: Docker, Kubernetes, GKE, Azure App Service
-Scripting: Python, Bash, PowerShell
-Monitoring & Analytics: Prometheus, Grafana, ELK, New Relic, Databricks, Apache, Nginx
-Data: MySQL, SQL, BigQuery, Data Analytics
-Security: IAM, RBAC, VPC Service Controls, Firewall Rules, Network Security Groups, Landing Zones
-Methodologies: Agile Scrum, Project Management
-Tools: ServiceNow, MS365, Hadoop
-Operating Systems: Ubuntu, Debian, Red Hat
-Other: IaaS, PaaS, SaaS, SRE, Technical & Architectural Documentation
-
-Work Experience
-DevOps / Cloud Architecture / Cloud Consulting — Project Manager	Mar 2025 – Present
-Freelance Consulting (Pro Bono), Houston, TX
-Provide pro bono consulting services for clients' cloud environment needs across Azure and GCP to stay current with evolving tools and practices.
-Deliver 1-on-1 and group tutoring in DevOps practices, including CI/CD pipelines, IaC (Terraform), containerization (Docker/K8s), and cloud services (Azure/AWS).
-Build platform engineering project templates, including Azure/Google Cloud landing zones and reusable IaC modules.
-Create learning resources and documented guided-step tutorials.
-Design and deliver automation solutions to streamline client workflows.
-
-Career Break	Apr 2024 – Mar 2025
-Managed the sale of a home; continued developing and maintaining technical skills in cloud infrastructure and DevOps tooling during this period.
-
-DevOps / Platform Engineer — Project Manager	Aug 2021 – Mar 2024
-Mayo Clinic (via Medasource), Rochester, MN
-Designed and supported scalable cloud infrastructure on GCP using Terraform for AI/ML workloads, including Large Language Models (LLMs) in healthcare research.
-Automated Google Cloud data analytics solutions using Compute Engine, Cloud Storage, BigQuery, and Cloud Functions; implemented IAM roles and RBAC for security.
-Streamlined project provisioning and decommissioning with Terraform modules, reducing manual overhead.
-Led workflows across GCP and Azure, supporting CI/CD via Cloud Build, Azure DevOps pipelines, and Git repositories.
-Managed cloud governance and change processes with ServiceNow, ensuring controlled deployments.
-Supported AI/ML tooling: Vertex AI, Compute Engine AI, BigQuery ML, Jupyter Notebooks, PyTorch, TensorFlow.
-Ensured quality assurance for LLM compute environments, supporting Conda and RStudio integrations.
-Secured environments using VPC Service Controls, Firewall Rules, and IAM policies; optimized Azure security posture.
-Deployed and managed containerized applications on GKE and Docker; leveraged Azure App Service for hybrid deployments.
-
-Infrastructure / DevOps Engineer — Project Manager	Dec 2004 – Nov 2019
-Optum Technology, Houston, TX
-Led server infrastructure projects, installing ESXi on HP and Cisco servers for high-volume virtual hosts.
-Utilized Agile Scrum methodology and Rally for project deployment; automated tasks with PowerShell.
-Managed SAN storage allocation, optimized system performance, and resolved hardware issues.
-Supported VMware migrations using vMotion, DRS, and vSphere; provided 24x7 on-call support.
-Automated system configurations with PowerShell; mentored Agile team members in VMware and Windows Server administration.
-Used Terraform, Chef, Puppet, and Azure Catalog to provision SQL databases.
-
-System Administrator	Mar 2004 – Sep 2004
-Thomson Reuters, New York, NY
-Administered Novell network OS, ZENworks, and GroupWise Mail Server.
-Provided global IT support and deployed standardized Windows builds.
-
-Desktop Migration Consultant	Jun 2003 – Feb 2004
-J.P. Morgan Chase, New York, NY
-Supported desktop migration projects and end-user accessibility.
-
-Certifications
-AWS Certified Cloud Practitioner
-Introduction to Large Language Models
-Introduction to Generative AI
-Developing a Google SRE Culture
-Introduction to Data Concepts
-Google AI Essentials Certificate
-Agile/Scrum 
-
-Education
-CS50: Introduction to Computer Science (Harvard/edX)
-PMI Member
-Languages
-English (native) · Spanish (fluent) · Portuguese (basic)
+PROFESSIONAL DEVELOPMENT
+• Apr 2024 – Aug 2025: Independent Cloud Study & Skills Development — completed coursework in Google SRE culture, Generative AI, and LLM fundamentals; continued hands-on development across Terraform, Docker/Kubernetes, and Azure/GCP services.
+• Sep 2025 – Jan 2026: Facilities / Office Services — maintained financial stability during a housing transition while keeping technical skills current through Terraform, CI/CD, and automation work.
+• Feb 2026 – Present: Active DevOps / Cloud Engineering Job Search — focused on DevOps, Platform Engineering, Cloud Engineering, and SRE roles; continued hands-on portfolio work with Terraform and CI/CD.
+CERTIFICATIONS & EDUCATION
+• AWS Certified Cloud Practitioner
+• Developing a Google SRE Culture
+• Google AI Essentials Certificate
+• Introduction to Large Language Models (LLMs)
+• Introduction to Generative AI
+• Introduction to Data Concepts
+• Agile/Scrum Trained
+• CS50 — Harvard University (Introduction to Computer Science)
+• PMI Member
+Languages: English (Native) • Spanish (Fluent) • Portuguese (Basic)
